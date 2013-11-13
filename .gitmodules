@@ -7,3 +7,6 @@
 [submodule "vendor/submodules/web-mode"]
 	path = vendor/submodules/web-mode
 	url = https://github.com/fxbois/web-mode.git
+[submodule "vendor/submodules/scss-mode"]
+	path = vendor/submodules/scss-mode
+	url = https://github.com/antonj/scss-mode.git
